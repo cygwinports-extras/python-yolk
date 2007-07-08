@@ -1,0 +1,4 @@
+ORIG_PN="yolk"
+inherit distutils
+
+DESCRIPTION="Python distutils package manager"

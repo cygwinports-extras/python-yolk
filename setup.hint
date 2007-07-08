@@ -1,0 +1,10 @@
+category: Python
+requires: python
+sdesc: "Python distutils package manager"
+ldesc: "Yolk is a Python tool for obtaining information about packages 
+installed by distutils, setuptools and easy_install and packages on PyPI 
+(Python Package Index a.k.a. The Cheese Shop).
+
+Yolk can list all the packages installed by setuptools on your system,
+show which packages are active, non-active or in development mode and
+show you which have newer versions available according to PyPI."
